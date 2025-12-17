@@ -24,7 +24,6 @@ public class Main {
 */
 
         Consola2 consola2 = new Consola2();
-
         consola2.registrarEmpleado();
         consola2.listadoEmpleados();
 
